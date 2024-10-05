@@ -1,3 +1,3 @@
-I am learning shell script and about Git
-Iam learning more on github
+I am learning shell script and about Git\n
+Iam learning more on github\n
 Thank you.
