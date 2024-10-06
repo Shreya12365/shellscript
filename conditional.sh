@@ -1,7 +1,7 @@
 #!bin/bash
-age=$1
+echo "what is your age"
 read age
-if ["$age" -gt 18]
+if [ "$age" -ge 18 ]
 then
     echo "Eligible to vote"
 else
