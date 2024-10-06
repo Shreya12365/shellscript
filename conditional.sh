@@ -1,5 +1,5 @@
 #!bin/bash
-echo "what is your age"
+age=$1
 read age
 if [ $age -ge 18 ]
 then
